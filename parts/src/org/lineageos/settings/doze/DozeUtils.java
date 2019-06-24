@@ -138,6 +138,5 @@ public final class DozeUtils {
             }
         }
         return null;
->>>>>>> 80b3bdc... vince: Convert XiaomiDoze into XiaomiParts:parts/src/org/lineageos/settings/doze/DozeUtils.java
     }
 }
